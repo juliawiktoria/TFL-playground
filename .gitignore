@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+lib/
+lib64/
+bin/
+include/
+share/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Constants
+constants.py
